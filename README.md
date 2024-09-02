@@ -1,7 +1,7 @@
 
 # OCR_Braille
 
-OCR_Braille is an application that performs OCR on a directory of images, utilizing techniques such as text detection, text recognition, and layout analysis. The extracted text is then translated into Braille.
+OCR_Braille is an application that performs OCR on a directory of images, utilizing techniques such as text detection, text recognition, and layout analysis to generate 2 .txt file one containing both the text and its corresponding translation to braille 
 
 ## Installation
 
