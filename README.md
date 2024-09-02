@@ -16,11 +16,11 @@ python main.py -d /path/to/images --segment True --language fr --analyse False
 
 ## With docker 
 
-1. Building
+## 1. Building
 ```bash
 docker build -t ocr_app:wt .
 ```
-2.Running the container
+## 2. Running the container
 ```bash
 docker run -e LANGUAGE=en \
            -e DIRECTORY=/app/to_test \
