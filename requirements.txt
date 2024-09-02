@@ -1,0 +1,6 @@
+easyocr
+opencv-python
+paddlepaddle
+git+https://github.com/PaddlePaddle/PaddleOCR.git
+pybrl
+
