@@ -23,10 +23,11 @@ docker build -t ocr_app:wt .
 2.Running the container
 ```bash
 docker run -e LANGUAGE=en \
-           -e DIRECTORY=/app/to_test \ 
+           -e DIRECTORY=/app/to_test \
            -v $(pwd)/to_test:/app/to_test \
-           -v $(pwd)/outputs:/app/outputs 
+           -v $(pwd)/outputs:/app/outputs \
            ocr_app:wt
+
 ```
 
 
