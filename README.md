@@ -51,5 +51,5 @@ docker run -e LANGUAGE=en \
 - **-e LANGUAGE**: Set the language environment variable (e.g., 'en' for English).
 - **-e DIRECTORY**: Set the directory environment variable for the input images.
 - **-v**: Bind mount the directories for input images and output results.
-```
+
 
