@@ -1,5 +1,3 @@
-Here’s the content rewritten in **Markdown** for your `README.md` file:
-
 ```markdown
 # OCR_Braille
 
@@ -55,4 +53,3 @@ docker run -e LANGUAGE=en \
 - **-v**: Bind mount the directories for input images and output results.
 ```
 
-This format is ready to be placed in a `README.md` file for your **OCR_Braille** project.
